@@ -1,4 +1,4 @@
-# CUDA Driver & Toolkit Installation Guide (Ubuntu 24.04)
+# CUDA Toolkit Installation Guide (Ubuntu 24.04)
 
 This guide walks through installing the CUDA Toolkit while **skipping** the included NVIDIA driver, useful if you already have a compatible driver installed from your Linux distribution's package manager (e.g., `apt`, `dnf`, etc.). This is based on a real scenario where the system already had driver version **550.120** (newer than the one bundled with CUDA 12.4).
 
